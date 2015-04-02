@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>09215BAF-A781-4953-8E4C-FFAE0D511E9C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Xcode6Tutorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DCE9D63B69170A7A44E53253183521069AAA1E16</key>
+		<string>https://github.com/RMCorpLtda/classicSoccer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ClassicSoccer/Xcode6Tutorial.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DCE9D63B69170A7A44E53253183521069AAA1E16</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RMCorpLtda/classicSoccer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DCE9D63B69170A7A44E53253183521069AAA1E16</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DCE9D63B69170A7A44E53253183521069AAA1E16</string>
+			<key>IDESourceControlWCCName</key>
+			<string>classicSoccer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
